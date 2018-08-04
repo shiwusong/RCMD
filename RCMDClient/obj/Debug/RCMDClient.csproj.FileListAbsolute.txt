@@ -1,0 +1,9 @@
+C:\Users\sws558\source\repos\RCMD\RCMDClient\bin\Debug\RCMDClient.exe.config
+C:\Users\sws558\source\repos\RCMD\RCMDClient\bin\Debug\RCMDClient.exe
+C:\Users\sws558\source\repos\RCMD\RCMDClient\bin\Debug\RCMDClient.pdb
+C:\Users\sws558\source\repos\RCMD\RCMDClient\bin\Debug\YamlDotNet.dll
+C:\Users\sws558\source\repos\RCMD\RCMDClient\bin\Debug\YamlDotNet.xml
+C:\Users\sws558\source\repos\RCMD\RCMDClient\obj\Debug\RCMDClient.csproj.CoreCompileInputs.cache
+C:\Users\sws558\source\repos\RCMD\RCMDClient\obj\Debug\RCMDClient.csproj.CopyComplete
+C:\Users\sws558\source\repos\RCMD\RCMDClient\obj\Debug\RCMDClient.exe
+C:\Users\sws558\source\repos\RCMD\RCMDClient\obj\Debug\RCMDClient.pdb

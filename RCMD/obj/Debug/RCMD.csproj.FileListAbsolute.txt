@@ -1,0 +1,10 @@
+c:\users\sws558\source\repos\RCMD\RCMD\bin\Debug\RCMD.exe.config
+c:\users\sws558\source\repos\RCMD\RCMD\bin\Debug\RCMD.exe
+c:\users\sws558\source\repos\RCMD\RCMD\bin\Debug\RCMD.pdb
+c:\users\sws558\source\repos\RCMD\RCMD\obj\Debug\RCMD.csprojResolveAssemblyReference.cache
+c:\users\sws558\source\repos\RCMD\RCMD\obj\Debug\RCMD.csproj.CoreCompileInputs.cache
+c:\users\sws558\source\repos\RCMD\RCMD\obj\Debug\RCMD.exe
+c:\users\sws558\source\repos\RCMD\RCMD\obj\Debug\RCMD.pdb
+C:\Users\sws558\source\repos\RCMD\RCMD\bin\Debug\YamlDotNet.dll
+C:\Users\sws558\source\repos\RCMD\RCMD\bin\Debug\YamlDotNet.xml
+C:\Users\sws558\source\repos\RCMD\RCMD\obj\Debug\RCMD.csproj.CopyComplete
