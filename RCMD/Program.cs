@@ -26,8 +26,7 @@ namespace RCMD
             string settingStr = File.ReadAllText(@"Config.yaml");
             var deserializer = new Deserializer();
             Config config = deserializer.Deserialize<Config>(settingStr);
-            IPAddress ip = IPAddress.Parse(config.IP);//服务器端ip
-            myListener = new TcpListener(ip, config.PORT);//创建TcpListener实例
+            myListener = new TcpListener(IPAddress.Any, config.PORT);//创建TcpListener实例
             myListener.Start();//start
             newClient = myListener.AcceptTcpClient();//等待客户端连接
             #endregion
